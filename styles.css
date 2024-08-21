@@ -1,5 +1,7 @@
 /*  your css code here. If applicable */
 body {
+	border: 2px solid black;
+	height: 10px;
     font-family: Arial, sans-serif;
     display: flex;
     flex-direction: column;
